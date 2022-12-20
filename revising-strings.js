@@ -1,3 +1,3 @@
 let pizza = 'pizza is alright'
-pizza = pizza.replace('alright', 'wonderfull')
+pizza = pizza.replace('alright', 'wonderful')
 console.log(pizza)
